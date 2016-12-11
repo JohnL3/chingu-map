@@ -12,6 +12,15 @@ var markersData = [
 
     },
     {
+        lat: 53.1561,
+        lng: -6.9144,
+        title: '@JohnL3',
+        name: 'John Long',
+        fullText: '',
+        img: 'img/jl3.jpe',
+        cohort: 'RedPandas'
+    },
+    {
         lat: 45.748900,
         lng: 21.208700,
         title: '@andrei_u',
